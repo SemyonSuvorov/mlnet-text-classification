@@ -1,2 +1,6 @@
 Kursach/bin/
 Kursach/obj/
+/Kursach/test.csv
+/Kursach/test.tsv
+/Kursach/train.csv
+/Kursach/train.tsv
